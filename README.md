@@ -1,6 +1,6 @@
 # carros
 
-A new Flutter application.
+A Flutter application use json API.
 
 ## Getting Started
 
